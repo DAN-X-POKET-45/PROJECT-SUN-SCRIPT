@@ -1,11 +1,11 @@
 /*
-** $Id: lapi.h $
+** $Id: sun-api.hpp $
 ** Auxiliary functions from Lua API
 ** See Copyright Notice in lua.h
 */
 
-#ifndef lapi_h
-#define lapi_h
+#ifndef lapi_hpp
+#define lapi_hpp
 
 
 #include "llimits.h"
